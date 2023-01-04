@@ -354,11 +354,6 @@ section{
 .product-box{
     position: relative;
 }
-.product-box:hover{
-    padding: 10px;
-    border: 1px solid var(--text-color);
-    transition:0.4s;
-}
 .product-img{
     width: 100%;
     height: auto;
